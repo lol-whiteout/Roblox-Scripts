@@ -22,7 +22,8 @@ local tpkey4 = "m"
 
 mouse.KeyDown:Connect(function(key)
    if key == tpkey1 then
-       lp.Character:MoveTo(Vector3.new(-1892.04456, 823.450012, -4372.45947))
+--	lp.Character:MoveTo(Vector3.new(-1892.04456, 823.450012, -4372.45947))
+	lp.Character:MoveTo(Vector3.new(-1518.55237, 788.858521, -4709.71191))
    end
    
    if key == tpkey2 then
