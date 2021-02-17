@@ -1,16 +1,16 @@
 --[[
     
-    BRM5 Script v1
-    
-    Script made by whiteout
+        BRM5
+
+    By whiteout
 
         -Keybinds-
     J - Mountain Teleport
-    J - Garage Teleport
+    K - Garage Teleport
     L - Command Center Teleport
-    M - Supplies Teleport
+    M - Spawn Teleport
     G - Always Day (Client Sided Only)
-
+	
 ]]
 
 local lp = game.Players.LocalPlayer
